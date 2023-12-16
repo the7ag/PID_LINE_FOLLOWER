@@ -60,10 +60,5 @@ https://github.com/the7ag/PID_LINE_FOLLOWER/assets/95578914/deb46ac8-b3ce-4c84-b
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- Mention any contributors or references that assisted in the development of the project.
-
 ---
 
-Feel free to modify and expand this README to provide more details, acknowledgments, or specific instructions tailored to your project's needs.
